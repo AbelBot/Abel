@@ -1,0 +1,29 @@
+{
+  "name": "abel",
+  "version": "1.0.0",
+  "description": "Abel Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbelBot/Abel.git"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "whatever",
+    "insurance"
+  ],
+  "author": "Litai Wai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbelBot/Abel/issues"
+  },
+  "homepage": "https://github.com/AbelBot/Abel#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
